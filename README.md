@@ -1,7 +1,3 @@
-# Create the README.md file with the provided content
-
-readme_content = """
-
 # PDF Text Extractor
 
 A React application for extracting text content from PDF files. Simply drag and drop a PDF file onto the interface, and the app will extract and display its text content in a user-friendly format.
